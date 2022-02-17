@@ -1,6 +1,6 @@
 ## MoodStateMachine
-#### by Scott Kildall
-#### Last updated Jan 24 2022
+#### by Tyisha Hill 
+#### Last updated Feb 16 2022
 
 
 ### Overview
@@ -17,7 +17,7 @@ This is a simple state machine that displays an image and a series of transition
  This is a library that loads a csv file for images + texts + states. The implementation destails are in the source code file and here is what we need to know.
 
 ### CSV file format
-![](csv_format.jpg)
+![](csv_format_ty.jpg)
 
 Each row details:
 (1) start state name

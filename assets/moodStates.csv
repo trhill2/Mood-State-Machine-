@@ -1,15 +1,17 @@
 StateName,PNGFilename,TransitionText,NewState
-Relaxed,assets/relaxed.png,See a cute cat,Excited
-Relaxed,assets/relaxed.png,My roommates didn’t wash the dishes so I can't eat,Frustrated
-Angry,assets/angry.png,"Realize the person I was angry at does not care
-",Sad
-Angry,assets/angry.png,I do some breathing exercises,Relaxed
-Sad,assets/sad.png,i can't figure out why I'm crying,Frustrated
-Sad,assets/sad.png,"i have cried out all my tears
-",Relaxed
-Excited,assets/excited.png,"This assignment is not as easy as I thought it was
-",Frustrated
-Excited,assets/excited.png,"someone likes my best friend but the person i like
-",Angry
-Frustrated,assets/frustrated.png,I can't figure out a problem,Angry
-Frustrated,assets/frustrated.png,I figure out a solution,Excited
+Angry,assets/angryMOODS.png,Gets to go out for ice cream,Happy
+Angry,assets/angryMoods.png,Anxious for big exam tommorow ,Worried
+Happy,assets/happyMOODS.png, Bengals loose superbowl,Angry
+Happy,assets/happyMOODS.png, Have to pull an All nighter,Sleepy
+Worried,assets/worriedMOODS.png,Having to start doing your own taxes,Confused
+Worried,assets/worriedMOODS.png,Checks lotto ticket and wins 800 million,Delirious
+Sleepy,assets/sleepyMOODS.png,See's someone they think is cute,Flirty
+Sleepy,assets/sleepyMOODS.png,Get's an A+ on exam they didnt study for,Surprised
+Confused,assets/confusedMOODS.png,Gets a full nights rest,Happy
+Confused,assets/confusedMOODS.png,Finds out Rihanna is pregnant,Surprised
+Flirty,assets/flirtyMOODS.png,Has not drank water for a month ,Delirious
+Flirty,assets/flirtyMOODS.png,Misses the bus,Angry
+Surprised,assets/surprisedMOODS.png,Dreams about Aliens partying with the humans,Confused
+Surprised,assets/surprisedMOODS.png,They reach to grab your hand ,Flirty
+Delirious,assets/deliriousMOODS.png,Drinks some Chamomile tea,Sleepy
+Delirious,assets/deliriousMOODS.png,Roommates begin to feel unwell,Worried
